@@ -10,3 +10,4 @@ openpyxl
 pyxlsb
 matplotlib
 wordcloud
+XlsxWriter
