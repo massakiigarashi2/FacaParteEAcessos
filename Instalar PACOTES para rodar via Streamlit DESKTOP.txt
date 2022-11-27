@@ -1,0 +1,15 @@
+FacaParteEAcessos.py não roda online, precisa instalar pacotes e rodar localhost no Streamlit do Desktop
+
+conda create --name FunControll python=3.10
+python -m pip install streamlit
+python -m streamlit hello
+
+
+python -m pip install plotly.express
+python -m pip install streamlit-aggrid
+python -m pip install openpyxl
+python -m pip install pyxlsb
+python -m pip install matplotlib
+python -m pip install wordcloud
+
+
