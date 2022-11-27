@@ -1,5 +1,5 @@
 # *FunControll* - Plataforma de controle para colaboradores.
-## Trabalho de Conclusão da Componente - Inovação e Desenvolvimento de Produtos
+Trabalho de Conclusão da Componente - Inovação e Desenvolvimento de Produtos
 ---------------------------------------------------------------------------------
 Alunas: Laura do Amaral Gurgel e Luana de Santana Paes
 ### Clique no link para: 
